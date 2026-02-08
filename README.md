@@ -77,3 +77,7 @@ KMeans-Customer-Segmentation/
 └── requirements.txt
 
 #Outputs
+
+<img width="1335" height="580" alt="Image" src="https://github.com/user-attachments/assets/99b1da5c-29d9-472c-9a68-aa4ed50250ac" />
+<img width="896" height="589" alt="Image" src="https://github.com/user-attachments/assets/cf4d993c-2ed6-45df-9a35-5b600945fe83" />
+<img width="835" height="581" alt="Image" src="https://github.com/user-attachments/assets/bb45da09-eb12-42eb-80d1-b53cf92392d3" />
